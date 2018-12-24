@@ -21,6 +21,11 @@ Pick one of the following ways:
 > **Note**: A separated e-mail just for SVG Salad is not currently available,
 but we hope it will, soon.
 
+Acknowledgement
+--------------
+
+- [Brave UX](https://github.com/BraveUX) _for the badges_ above (they are also SVGs!)
+
 License
 -------
 

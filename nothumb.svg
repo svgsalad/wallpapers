@@ -1,46 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="300mm"
-   height="168.75mm"
-   viewBox="0 0 300 168.75"
-   version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="nothumb.svg"
-   inkscape:export-filename="/home/you_create/Projects/svgsalad/wallpapers/nothumb.png"
-   inkscape:export-xdpi="25.43763"
-   inkscape:export-ydpi="25.43763">
+   version="1.1"
+   viewBox="0 0 300 168.75"
+   height="168.75mm"
+   width="300mm">
   <title
      id="title10">No Thumbnail</title>
   <defs
      id="defs2" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="579.62659"
-     inkscape:cy="354.54425"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
-     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -85,70 +58,60 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-128.25)">
+     transform="translate(0,-128.25)"
+     id="layer1">
     <rect
-       id="rect8"
-       width="300"
-       height="168.75"
-       x="-1.7763568e-15"
-       y="-297"
+       transform="scale(1,-1)"
        style="stroke-width:0.38683546;fill:#e6e6e6"
-       transform="scale(1,-1)" />
+       y="-297"
+       x="-1.7763568e-15"
+       height="168.75"
+       width="300"
+       id="rect8" />
     <g
-       id="g4556"
-       transform="translate(2.1743773e-7,0.98881272)">
+       transform="translate(2.1743773e-7,0.98881272)"
+       id="g4556">
       <g
-         transform="translate(-3.0803528,10.96131)"
-         id="g4542">
+         id="g4542"
+         transform="translate(-3.0803528,10.96131)">
         <g
-           id="g3728"
-           transform="translate(36.40654,-5.1908421)">
+           transform="translate(36.40654,-5.1908421)"
+           id="g3728">
+          <circle
+             style="fill:#808080;stroke-width:0.26458332"
+             id="path10"
+             cx="104.38959"
+             cy="178.69345"
+             r="6" />
           <circle
              r="6"
              cy="178.69345"
-             cx="104.38959"
-             id="path10"
-             style="fill:#808080;stroke-width:0.26458332" />
-          <circle
-             style="fill:#808080;stroke-width:0.26458332"
-             id="circle12"
              cx="128.95804"
-             cy="178.69345"
-             r="6" />
+             id="circle12"
+             style="fill:#808080;stroke-width:0.26458332" />
           <path
-             transform="scale(-1)"
-             d="m -99.712503,-206.41443 a 16.961309,16.961309 0 0 1 -8.480657,14.68893 16.961309,16.961309 0 0 1 -16.96131,0 16.961309,16.961309 0 0 1 -8.48065,-14.68893 l 16.96131,0 z"
-             sodipodi:end="3.1415927"
-             sodipodi:start="0"
-             sodipodi:ry="16.961309"
-             sodipodi:rx="16.961309"
-             sodipodi:cy="-206.41443"
-             sodipodi:cx="-116.67381"
-             sodipodi:type="arc"
+             style="fill:#808080;stroke-width:0.74794662"
              id="circle14"
-             style="fill:#808080;stroke-width:0.74794662" />
+             d="m -99.712503,-206.41443 a 16.961309,16.961309 0 0 1 -8.480657,14.68893 16.961309,16.961309 0 0 1 -16.96131,0 16.961309,16.961309 0 0 1 -8.48065,-14.68893 l 16.96131,0 z"
+             transform="scale(-1)" />
         </g>
         <circle
-           style="fill:none;stroke:#808080;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
-           id="path3730"
-           cx="153.08035"
+           r="30.808441"
            cy="184.3631"
-           r="30.808441" />
+           cx="153.08035"
+           id="path3730"
+           style="fill:none;stroke:#808080;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none" />
       </g>
       <text
-         id="text4546"
-         y="256.46945"
-         x="9.3214531"
+         xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#4d4d4d;fill-opacity:1;stroke-width:0.26458332"
-           y="256.46945"
-           x="9.3214531"
+         x="9.3214531"
+         y="256.46945"
+         id="text4546"><tspan
            id="tspan4544"
-           sodipodi:role="line">No preview thumbnail available</tspan></text>
+           x="9.3214531"
+           y="256.46945"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#4d4d4d;fill-opacity:1;stroke-width:0.26458332">No preview thumbnail available</tspan></text>
     </g>
   </g>
 </svg>
